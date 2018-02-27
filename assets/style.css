@@ -1,0 +1,129 @@
+
+/* header */
+.header-name {
+    width: 250px; 
+    height: 100%;
+    background: #4aaaa5; 
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center; 
+    line-height: 90px; 
+    color: #fff; 
+    font-weight: 700; 
+    font-size: 30px; 
+    text-decoration: none
+
+}
+
+main{
+    height: 350px; 
+    border: 1px solid #ddd;
+}
+
+.thumbnail {
+    height: 150px; 
+    width: auto; 
+}
+
+h2, h3  {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4aaaa5
+}
+
+.panel-heading {
+    background: #fff; 
+
+}
+
+.panel-default {
+    background: #fff; 
+    padding: 30px; 
+    width: 100%; 
+    max-width: 270px; 
+    float: right; 
+    border: 1px solid #ddd; 
+    margin-bottom: 20px; 
+}
+
+.panel-logos li{
+    display: inline;
+}
+
+.img-responsive {
+    width: 62px; 
+    height: 62px; 
+    margin-top: 8px; 
+    margin-right: 5px; 
+    display: inline;
+}
+
+
+
+
+/* footer */
+
+footer {
+    background: #666; 
+    color: #fff; 
+    padding: 30px 0; 
+    clear: both; 
+    border-top: 8px solid #4aaaa5; 
+    color: #ccc; 
+    font-size: 12px; 
+    text-align: center; 
+}
+
+/* portfolio */
+
+.main-section {
+    background: #fff; 
+    padding: 30px; 
+    margin: 0 0 40px 0; 
+    border: 1px solid #ddd; 
+}
+
+.auth-image {
+    width: 180px; 
+    height: auto; 
+    margin-top: 10px; 
+    float: left; 
+    margin-right: 25px;
+    
+}
+
+/* contact */
+
+.contact-form ul {
+    margin-bottom: 20px;
+}
+
+.contact-form li {
+    margin-bottom: 10px; 
+}
+
+label, 
+input[type=text], 
+input[type=email], 
+textarea {
+    display: block; 
+    width: 100%; 
+}
+
+label, 
+input[type=text], 
+input[type=email], 
+textarea {
+    height: 35px; 
+    border: 1px solid #ddd; 
+    padding: 0 10px; 
+    font-size: 14px; 
+}
+
+textarea {
+    height: 200px; 
+}
+
+.panel-list li{
+    display: inline-block;
+}
